@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\bin\Debug\SOAPWebService.exe
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\bin\Debug\SOAPWebService.pdb
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\SOAPWebService.Form1.resources
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\SOAPWebService.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\SOAPWebService.exe
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\obj\x86\Debug\SOAPWebService.pdb
+C:\Users\Daniel\Desktop\Apuntes\Cuarto\2nd semester\Bachelor Thesis\TutorialesC++\SOAPWebService\SOAPWebService\bin\Debug\SOAPWebService.exe.config
+C:\Users\Daniel\Desktop\Apuntes\Master\SOA\task1\SOAPWebService\SOAPWebService\bin\Debug\SOAPWebService.exe.config
+C:\Users\Daniel\Desktop\Apuntes\Master\SOA\task1\SOAPWebService\SOAPWebService\obj\x86\Debug\SOAPWebService.exe
+C:\Users\Daniel\Desktop\Apuntes\Master\SOA\task1\SOAPWebService\SOAPWebService\obj\x86\Debug\SOAPWebService.pdb
